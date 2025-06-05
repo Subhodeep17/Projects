@@ -4,6 +4,8 @@ Welcome to my GitHub repository! Here, you'll find folders for the projects I've
 Each folder contains a detailed project description and links to explore the associated files.
 
 ## Projects
+- [Artificial Intelligeence](https://github.com/Subhodeep17/Projects/blob/main/artificial%20intelligence/README.md)
+
 - [Sales Performance Analytics](https://github.com/Subhodeep17/Projects/tree/main/Sales-Performance-Analytics)
   
 - [Paris Olympics 2024](https://github.com/Subhodeep17/Projects/tree/main/Paris%20Olympics%202024)
