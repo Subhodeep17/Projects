@@ -1,5 +1,5 @@
 # Artificial Intelligence
-https://1drv.ms/p/c/8bb6f14ea7f7ab4c/EdEU_Dmq_XBDlWfwK6yRLuQBQsUF-NO7lA_eOwIlDH_F4g?e=MjiaM6
+https://docs.google.com/presentation/d/1kzyRDLiLVvVG7ULSgChP8cuKCRWI5QGF/edit?usp=sharing&ouid=116007469213894046435&rtpof=true&sd=true
 
 
 ## Description
